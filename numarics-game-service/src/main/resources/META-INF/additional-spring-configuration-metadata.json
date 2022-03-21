@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "player.service.url",
+      "type": "java.lang.String",
+      "description": "Description for player.service.url."
+  }
+] }
