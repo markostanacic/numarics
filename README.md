@@ -11,4 +11,6 @@ The Project is built within the maven build tool and it is required just to run 
 
 - Tests(bean, endpoint, services and unit) are written just for the player service because they can be applied in the same manner to the game service.
 
+- I did not used mappers (mapstruct, etc...) just plain java conversion.
+
 - Search endpoint for game service are done as a happy part :) it can be optimized or better implemented.
